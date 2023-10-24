@@ -14,5 +14,8 @@ let myobj={
 }
 let anotherobj = myobj
 anotherobj.email="thakur@gmail.com"
-console.log(myobj.email)
-console.log(anotherobj.email)
+// console.log(myobj.email)
+// console.log(anotherobj.email)
+let mydate = new Date()
+console.log(mydate)
+
